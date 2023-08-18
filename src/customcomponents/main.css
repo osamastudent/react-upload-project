@@ -1,0 +1,73 @@
+.h1 {
+    background-color: yellow;
+}
+
+.navbar {
+    
+    background-color: rgb(120, 120, 156);
+    width: 100% !important;
+}
+
+.slider {
+    height: 400px;
+    background-color: rgb(120, 120, 156);
+    width: 100% !important;
+}
+
+.slider .slidertext1 {
+    height: 400px;
+}
+
+.slider .slidertext1 .text2 {
+    margin-top: 100px;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100% !important;
+
+}
+
+.slidertext h1 {
+    color: white;
+}
+
+.slidertext h5 {
+    color: rgb(120, 120, 156);
+}
+
+.searchbar {
+    padding: 35px 0px 35px 50px;
+
+}
+
+.btn {
+    margin-top: -80px;
+    background-color: rgb(120, 120, 156);
+    color: white;
+    float: right;
+    margin-right: 50px;
+}
+
+.btn:hover {
+    background-color: gray;
+    color: white;
+}
+
+.cardarea {
+    background-color: yellow;
+}
+
+.box{
+    background-color: rgb(185, 185, 196);
+    height: 500px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+
+.card{
+width: 300px;
+}
